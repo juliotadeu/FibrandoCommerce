@@ -1,0 +1,14 @@
+{% extends "shop/base/base.html" %}
+{% load static %}
+{% load crispy_forms_tags %}
+{% block title %}
+Acesse sua conta!
+{% endblock %}
+{% block content %}
+
+<h2>Façalogin</h2>
+<form method="post">
+  {%csrf_token%}
+  {{form.as_p}}
+  <button type="Enviar"> Enviar </button> 
+</form>
