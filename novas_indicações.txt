@@ -5,3 +5,12 @@ https://simpleisbetterthancomplex.com/
 https://dev.to/learndjango/how-to-learn-django-2020-3g45
 
 https://learndjango.com/tutorials/
+
+Validação Captcha
+https://pypi.org/project/django-recaptcha/
+https://github.com/praekelt/django-recaptcha
+
+
+Pagamentos 
+
+https://www.simplify.com/commerce/docs/tutorial/index
